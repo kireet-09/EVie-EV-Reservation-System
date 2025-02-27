@@ -134,4 +134,3 @@ python manage.py startapp reservations
 ---
 🚗⚡ **Thank you!**
 
-
